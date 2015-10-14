@@ -1,0 +1,4 @@
+[package]
+name = "rust_doc_test"
+version = "0.1.0"
+authors = ["eap"]
